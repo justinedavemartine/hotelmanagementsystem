@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\repos\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\ADMIN\source\repos\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\ADMIN\source\repos\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\ADMIN\source\repos\Hotel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Ma.662265F2.Up2Date
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.LoginForm.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.RegisterForm.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.HotelSalveDashboard.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.admin_dashboard.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.manage_staff.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.manage_rooms.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.staff_form.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.staff_booking.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.client_info.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.admin_clients.resources
+C:\Users\ADMIN\source\repos\Hotel Management System\obj\Debug\Hotel_Management_System.admin_client_info.resources
